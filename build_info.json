@@ -1,0 +1,12 @@
+{
+  "published_at": "2026-09-24 01:49:02",
+  "sources": {
+    "index.html": "app.html@2026-09-24 00:28:00",
+    "mf_lab_app.js": "mf_lab_app.js@2026-09-23 23:45:57",
+    "multifactor_lab_data.js": "multifactor_lab_data.js@2026-09-23 18:39:03",
+    "multifactor.html": "multifactor.html@2026-09-23 17:26:24",
+    "weekly_report.html": "weekly_report.html@2026-09-23 04:46:55",
+    "daily_focus.json": "daily_focus.json@2026-09-23 04:31:52",
+    "health.json": "logs/health_latest.json@2026-09-23 04:47:01"
+  }
+}
